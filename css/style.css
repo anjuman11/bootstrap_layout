@@ -1,0 +1,30 @@
+.body{
+	margin:0;
+}
+.banner{
+	height: 250px;
+	background-color: skyblue;
+
+}
+.banner h1{
+	font-size: 50px;
+	color: teal;
+}
+.images{
+	padding: 50px 0;
+}
+.container{
+	margin:0 auto;
+	overflow: hidden;
+	width:960px;
+	/*border: 1px solid green;*/
+}
+.img_item{
+	box-sizing: border-box;
+	float:left;
+	width:25%;
+	padding: 3px 3px;
+}
+.img_item img{
+	width: 100%;
+}
